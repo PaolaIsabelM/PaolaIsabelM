@@ -1,7 +1,10 @@
 <h1 align="center">Hola, soy Paola Isabel 🌻</h1>
 <h3 align="center">Tengo 25 años soy Ingeniera Industrial y estoy iniciando en el mundo de la programación</h3>
 
-- 📫 Mi correo electrónico es **ismaor03@gmail.com**
+- Tengo casi dos años de experiencia en la industria manufacturera 
+- Formo parte del equipo de Códito Bits
+- Tengo conocimientos básicos de programación
+- Estoy muy interesada en seguir adquiriendo conocimientos de programación
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
